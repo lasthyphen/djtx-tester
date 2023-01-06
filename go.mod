@@ -3,8 +3,8 @@ module github.com/lasthyphen/djtx-tester
 go 1.17
 
 require (
-	github.com/lasthyphen/dijetsnode-go-runner v0.0.0-20211220205928-4a40af6d2f7e
-	github.com/lasthyphen/dijetsnodego v1.7.2
+	github.com/lasthyphen/dijetsnode-go-runner v0.0.4
+	github.com/lasthyphen/dijetsnodego v1.8.14
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.2
 	github.com/onsi/ginkgo/v2 v2.0.0
 	github.com/onsi/gomega v1.17.0
